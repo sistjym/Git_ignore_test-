@@ -10,7 +10,7 @@ public class Assume_unchanged_8 {
 	   3. Commit 을 하고 Push 도 합니다. 
 		  Web 의 git Hub 에 가보면 /MyGitExample/src/main/java/unchaged_assume/Assume_unchanged_8.java 파일이 Push 되어 보여집니다.
 	   4. Assume_unchanged_8.java 파일의 내용을 변경합니다.
-	             파일을 저장하면 Unstaged Changes(관리를 받지 않는 단계)에 >(dirty) 모양으로 들어옵니다.
+	      파일을 저장하면 Unstaged Changes(관리를 받지 않는 단계)에 >(dirty) 모양으로 들어옵니다.
 	      Staged Changes(관리를 받는 단계)에 *(staged) 모양으로 들어와도 상관 없이 괜찮습니다.       
 	   5. Project Explorer 에서  Assume_unchanged_8.java 파일에 마우스 우클릭하여 
 	      Team => Advanced => Assume Unchanged(변경이 없음으로 가정함)를 클릭하면 
